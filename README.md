@@ -1,6 +1,6 @@
 ﻿# hackathon
 # FlutterApp
-Japan learning app 
+Japan learning app </br>
 bắt buộc máy cần có Dark & Flutter https://docs.flutter.dev/get-started/install 
 mở cmd kiểm tra bằng cách gõ flutter doctor 
 cài android studio thêm SDK, cài Create device
